@@ -9,6 +9,7 @@ int main() {
 
     //Delete the name and favorite color and add your own once branched out
 
+    printf("Name: Josie, Favorite Color: Green\n");
     printf("Name: Josh, Favorite Color: Green\n");
     printf("Name: Kelly, Favorite Color: Pink\n");
 
